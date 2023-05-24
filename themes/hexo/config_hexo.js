@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi, we are Maxwell New Energy', 'We pride ourselves as a leading manufacturer of solar products', 'Our expertise lies in solar panels, solar inverters, solar batteries, and solar street lights', 'Welcome you to Maxwell New Energy!🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['Hi, we are Maxwell New Energy', 'leading manufacturer of solar products', 'solar panels,inverters,batteries and street lights', 'Welcome you to Maxwell New Energy!🎉'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
   HOME_NAV_BACKGROUND_IMG_FIXED: true, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
