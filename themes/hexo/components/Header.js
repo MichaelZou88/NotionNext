@@ -24,7 +24,7 @@ const Header = props => {
       changeType(
         new Typed('#typed', {
           strings: CONFIG_HEXO.HOME_BANNER_GREETINGS,
-          typeSpeed: 200,
+          typeSpeed: 400,
           backSpeed: 100,
           backDelay: 400,
           showCursor: true,
