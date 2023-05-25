@@ -25,7 +25,7 @@ const Header = props => {
         new Typed('#typed', {
           strings: CONFIG_HEXO.HOME_BANNER_GREETINGS,
           typeSpeed: 50,
-          backSpeed: 50,
+          backSpeed: 10,
           backDelay: 400,
           showCursor: true,
           smartBackspace: true
